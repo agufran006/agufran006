@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Gufran Ahmed  
 
-<!--
-**agufran006/agufran006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Cybersecurity Graduate | Aspiring Penetration Tester | Ethical Hacker**  
 
-Here are some ideas to get you started:
+I am passionate about **offensive security, penetration testing, and red teaming**.  
+This GitHub portfolio showcases my hands-on projects in cybersecurity, including vulnerability assessments, exploitation labs, and professional-style reporting.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 Featured Projects  
+
+### 🛡️ Metasploitable 2 – Vulnerability Assessment & Penetration Testing (VAPT)  
+- Tools: Kali Linux, Nmap, Nikto, Metasploit  
+- Findings: FTP backdoor (CVE-2011-2523), outdated Apache/PHP, missing security headers  
+- Deliverables: Full consultancy-grade **[Report (PDF)](https://github.com/agufran006/Metasploitable2-VAPT/tree/main/report)** + **[Repo Link](https://github.com/agufran006/Metasploitable2-VAPT)**  
+
+---
+
+## 🔹 Skills & Tools  
+
+- **Penetration Testing:** Nmap, Nikto, Metasploit, Burp Suite  
+- **Operating Systems:** Kali Linux, Windows, Ubuntu  
+- **Scripting:** Python (beginner), Bash  
+- **Other:** Wireshark, Nessus, OpenVAS  
+
+---
+
+## 🔹 Connect With Me  
+🌐 [LinkedIn](https://www.linkedin.com/in/gufran-uh/)  
+📧 Email: agufran006@gmail.com 
+
+---
+⚡“Cybersecurity is not just a skill, it’s a mindset — hack to learn, defend to secure.”
