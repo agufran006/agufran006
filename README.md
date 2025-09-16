@@ -12,7 +12,7 @@ This GitHub portfolio showcases my hands-on projects in cybersecurity, including
 ### 🛡️ Metasploitable 2 – Vulnerability Assessment & Penetration Testing (VAPT)  
 - Tools: Kali Linux, Nmap, Nikto, Metasploit  
 - Findings: FTP backdoor (CVE-2011-2523), outdated Apache/PHP, missing security headers  
-- Deliverables: Full consultancy-grade **[Report (PDF)](https://github.com/agufran006/Metasploitable2-VAPT/tree/main/report)** + **[Repo Link](https://github.com/agufran006/Metasploitable2-VAPT)**  
+- Deliverables: Full consultancy-grade **[Report (PDF)](Metasploitable2-VAPT/Report)** + **[Repo Link](Metasploitable2-VAPT)**  
 
 ---
 
