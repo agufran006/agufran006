@@ -8,12 +8,12 @@ This GitHub portfolio showcases my hands-on projects in cybersecurity, including
 
 ## 🔹 Featured Projects  
 
-### 🛡️ Metasploitable 2 – Vulnerability Assessment & Penetration Testing (VAPT)  
+### [🛡️ Metasploitable 2 – Vulnerability Assessment & Penetration Testing (VAPT)](https://github.com/agufran006/Metasploitable2-VAPT)
 - **Tools:** Kali Linux, Nmap, Nikto, Metasploit  
 - **Findings:** FTP backdoor (CVE-2011-2523), outdated Apache/PHP, missing security headers  
-- **Deliverables:** [Full Consultancy-Grade Report (PDF)](https://github.com/agufran006/Metasploitable2-VAPT)  
+- **Deliverables:** [Full Consultancy-Grade Report (PDF)](https://github.com/agufran006/Metasploitable2-VAPT/blob/main/report/Metasploitable2_Pentest_Report_Final.pdf)   
 
-### 🌐 DVWA – Web Application Pentest (In Progress)  
+###   [🌐 DVWA–Web Application Pentest (In Progress)](https://github.com/agufran006/DVWA-WebApp-Pentest)
 - **Scope:** Automated scanning with OpenVAS, SQL Injection, XSS, File Upload, Command Injection, CSRF  
 - **Tools:** Kali Linux, Nmap, OpenVas, Nikto, sqlmap, Burp Suite, Metasploit  
 - **Deliverables:** Report + GitHub repo (coming soon)  
