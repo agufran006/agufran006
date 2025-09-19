@@ -16,7 +16,7 @@ This GitHub portfolio showcases my hands-on projects in cybersecurity, including
 ###   [🌐 DVWA–Web Application Pentest (In Progress)](https://github.com/agufran006/DVWA-WebApp-Pentest)
 - **Scope:** Automated scanning with OpenVAS, SQL Injection, XSS, File Upload, Command Injection, CSRF  
 - **Tools:** Kali Linux, Nmap, OpenVas, Nikto, sqlmap, Burp Suite, Metasploit  
-- **Deliverables:** Report + GitHub repo (coming soon)  
+- **Deliverables:** Report (coming soon)  
 
 ---
 
