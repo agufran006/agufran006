@@ -14,17 +14,17 @@ This GitHub portfolio showcases my hands-on projects in cybersecurity, including
 - **Deliverables:** [Full Consultancy-Grade Report (PDF)](https://github.com/agufran006/Metasploitable2-VAPT)  
 
 ### 🌐 DVWA – Web Application Pentest (In Progress)  
-- **Scope:** SQL Injection, XSS, File Upload, Command Injection, CSRF  
-- **Tools:** Kali Linux, Nmap, Nikto, sqlmap, Burp Suite, Metasploit  
+- **Scope:** Automated scanning with OpenVAS, SQL Injection, XSS, File Upload, Command Injection, CSRF  
+- **Tools:** Kali Linux, Nmap, OpenVas, Nikto, sqlmap, Burp Suite, Metasploit  
 - **Deliverables:** Report + GitHub repo (coming soon)  
 
 ---
 
 ## 🔹 Skills & Tools  
-- **Penetration Testing:** Nmap, Nikto, Metasploit, Burp Suite  
+- **Penetration Testing:** Nmap, OpenVas, Nikto, Metasploit, Burp Suite  
 - **Operating Systems:** Kali Linux, Windows, Ubuntu  
 - **Scripting:** Python (beginner), Bash  
-- **Other Tools:** Wireshark, Nessus, OpenVAS  
+- **Other Tools:** Wireshark, Nessus
 
 ---
 
