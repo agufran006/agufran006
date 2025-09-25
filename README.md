@@ -13,10 +13,10 @@ This GitHub portfolio showcases my hands-on projects in cybersecurity, including
 - **Findings:** FTP backdoor (CVE-2011-2523), outdated Apache/PHP, missing security headers  
 - **Deliverables:** [Full Consultancy-Grade Report (PDF)](https://github.com/agufran006/Metasploitable2-VAPT/blob/main/report/Metasploitable2_Pentest_Report_Final.pdf)   
 
-###   [🌐 DVWA–Web Application Pentest (In Progress)](https://github.com/agufran006/DVWA-WebApp-Pentest)
+###   [🌐 DVWA-WebApp-Pentest](https://github.com/agufran006/DVWA-WebApp-Pentest)
 - **Scope:** Automated scanning with OpenVAS, SQL Injection, XSS, File Upload, Command Injection, CSRF  
 - **Tools:** Kali Linux, Nmap, OpenVas, Nikto, sqlmap, Burp Suite, Metasploit  
-- **Deliverables:** Report (coming soon)  
+- **Deliverables:** [DVWA_VAPT_Report](report/DVWA_VAPT_Report.pdf)
 
 ---
 
@@ -28,9 +28,10 @@ This GitHub portfolio showcases my hands-on projects in cybersecurity, including
 
 ---
 
-## 🔹 Connect With Me  
-🌐 [LinkedIn](https://linkedin.com/in/yourprofile)  
-📧 Email: agufran006@gmail.com  
+## 🔹 Connect With Me   
+[🌐 LinkedIn](https://www.linkedin.com/in/gufran-uh/)  
+[📧 Email](agufran006@gmail.com/) 
+
 
 ---
 
