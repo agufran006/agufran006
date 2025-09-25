@@ -30,7 +30,7 @@ This GitHub portfolio showcases my hands-on projects in cybersecurity, including
 
 ## 🔹 Connect With Me   
 [🌐 LinkedIn](https://www.linkedin.com/in/gufran-uh/)  
-[📧 Email](agufran006@gmail.com/) 
+📧 Email: agufran006@gmail.com
 
 
 ---
